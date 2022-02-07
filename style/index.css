@@ -1,1 +1,5 @@
 /* Your own custom styles should be here */
+* {
+    margin: 0;
+    padding: 0;
+}
